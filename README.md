@@ -1,1 +1,1 @@
-# Labeling-Chest-X-Rays-
+# Labeling-Chest-X-Rays
