@@ -1,4 +1,7 @@
 # Labeling-Chest-X-Rays
+
+**Labeling-Chest-X-Rays** is a deep learning-based project for automatic rib segmentation and labeling in chest X-rays (CXR). Using the **VinDr-RibCXR** dataset, models like **U-Net, U-Net++ with EfficientNet-B0, and FPN** are trained to segment and label 20 ribs. The best model achieves a **Dice score of 0.834**. The approach is also tested on **JSRT** and **Shenzhen** datasets for further analysis. 
+
 ### ABSTRACT 
 
 Over the years The Medical procedures had evolved and became so advanced that they can predict the diseases in advance but when we go a little back to make it all possible, It required the study and diagnosis of the symptoms and conditions of the particular diseases and conditions and when it came to study of Lungs, cardio, diagnosing tumors, bone injuries and other respiratory diseases it became evident to study by using X-rays. Chest radiography (chest X-ray or CXR) is an economical and easy-to-use medical imagine and diagnostic technique. The technique is the most commonly used diagnostic tool in medical practice and has an important role in the diagnosis of the lung disease.
